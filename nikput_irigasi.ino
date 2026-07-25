@@ -21,8 +21,8 @@ const char* ssid = "princess";
 const char* password = "12345679";
 
 // ====== THINGSPEAK BARU ======
-const char* writeAPIKey = "39WBODEMHCC8Z94L";
-const unsigned long channelID = 3399915;
+const char* writeAPIKey = "L0819CGH66SHDY86";
+const unsigned long channelID = 3430723;
 // =============================
 
 WiFiClient client;
